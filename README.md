@@ -1,2 +1,2 @@
 # c-program
-include c program and the data structure
+include **c program** and the **data structure**
