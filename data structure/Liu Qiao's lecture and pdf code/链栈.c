@@ -1,6 +1,6 @@
 //****************************链栈
 
-
+//come from liuqiao
 //必须用指针的指针用于传递
 #include<stdlib.h>
 #include<stdio.h>
